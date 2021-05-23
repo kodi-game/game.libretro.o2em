@@ -1,1 +1,1 @@
-o2em https://github.com/libretro/libretro-o2em/archive/0f13c969e6b7db021a9dc7a73ba7015227101024.zip
+o2em https://github.com/libretro/libretro-o2em/archive/dcf47bde10ea13cc6a3ec1fb338d948c6795aecd.zip
