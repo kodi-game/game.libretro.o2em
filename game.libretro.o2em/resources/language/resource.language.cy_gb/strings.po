@@ -16,6 +16,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "Magnavox - Odyssey2 / Phillips Videopac+ (O2EM) 1.18"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "O2EM is an Odyssey² / VideoPac emulator.
+
+Place &#34;o2rom.bin&#34; (required) in your userdata folder.
+
+Supported files: .bin"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""

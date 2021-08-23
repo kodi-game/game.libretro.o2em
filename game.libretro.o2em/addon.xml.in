@@ -16,8 +16,6 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Magnavox - Odyssey2 / Phillips Videopac+ (O2EM) 1.18</summary>
-		<description lang="en_GB">O2EM is an Odyssey² / VideoPac emulator.
 
 Place &#34;o2rom.bin&#34; (required) in your userdata folder.
 
@@ -29,5 +27,11 @@ Supported files: .bin</description>
 			<screenshot>resources/screenshot-01.png</screenshot>
 			<screenshot>resources/screenshot-02.png</screenshot>
 		</assets>
+		<summary lang="en_GB">Magnavox - Odyssey2 / Phillips Videopac+ (O2EM) 1.18</summary>
+		<description lang="en_GB">O2EM is an Odyssey² / VideoPac emulator.
+
+Place &#34;o2rom.bin&#34; (required) in your userdata folder.
+
+Supported files: .bin</description>
 	</extension>
 </addon>
