@@ -1,1 +1,1 @@
-o2em https://github.com/libretro/libretro-o2em/archive/e09a952964dea7ef164a634288e1134dba6e4a56.tar.gz
+o2em https://github.com/libretro/libretro-o2em/archive/086035c852c2780d55e5e72a9ebde976bbd8dc5e.tar.gz
