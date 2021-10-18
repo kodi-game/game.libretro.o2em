@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.o2em"
 		name="Magnavox - Odyssey2 / Phillips Videopac+ (O2EM)"
-		version="1.18.0.24"
+		version="1.18.0.25"
 		provider-name="Daniel Boris, Andre de la Rocha, Arlindo M. de Oliveira">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -12,7 +12,7 @@
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>Odyssey 2</platforms>
 		<extensions>bin</extensions>
-		<supports_vfs>false</supports_vfs>
+		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<requires_opengl>false</requires_opengl>
 	</extension>
@@ -25,6 +25,6 @@
 			<screenshot>resources/screenshot-02.png</screenshot>
 		</assets>
 		<summary lang="en_GB">Magnavox - Odyssey2 / Phillips Videopac+ (O2EM) 1.18</summary>
-		<description lang="en_GB">O2EM is an Odyssey² / VideoPac emulator.[CR][CR]Place &quot;o2rom.bin&quot; (required) in your userdata folder.</description>
+		<description lang="en_GB">O2EM is an Odyssey² / VideoPac emulator.[CR][CR]Place &#34;o2rom.bin&#34; (required) in your userdata folder.</description>
 	</extension>
 </addon>
