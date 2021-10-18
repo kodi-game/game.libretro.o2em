@@ -25,6 +25,6 @@
 			<screenshot>resources/screenshot-02.png</screenshot>
 		</assets>
 		<summary lang="en_GB">Magnavox - Odyssey2 / Phillips Videopac+ (O2EM) 1.18</summary>
-		<description lang="en_GB">O2EM is an Odyssey² / VideoPac emulator.[CR][CR]Place &quot;o2rom.bin&quot; (required) in your userdata folder.</description>
+		<description lang="en_GB">O2EM is an Odyssey² / VideoPac emulator.[CR][CR]Place [I]o2rom.bin[/I] (required) in your userdata folder.</description>
 	</extension>
 </addon>
