@@ -58,9 +58,21 @@ msgid "Audio Volume"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Audio Filter"
-msgstr "Filtro de audio"
+msgid "Voice Volume"
+msgstr ""
 
 msgctxt "#30009"
+msgid "Audio Filter"
+msgstr ""
+
+msgctxt "#30010"
 msgid "Audio Filter Level"
-msgstr "Nivel de filtro de audio"
+msgstr ""
+
+#~ msgctxt "#30008"
+#~ msgid "Audio Filter"
+#~ msgstr "Filtro de audio"
+
+#~ msgctxt "#30009"
+#~ msgid "Audio Filter Level"
+#~ msgstr "Nivel de filtro de audio"
