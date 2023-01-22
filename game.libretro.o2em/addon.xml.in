@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.o2em"
 		name="Magnavox - Odyssey2 / Phillips Videopac+ (O2EM)"
-		version="1.18.0.32"
+		version="1.18.0.33"
 		provider-name="Daniel Boris, Andre de la Rocha, Arlindo M. de Oliveira">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -21,6 +21,7 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.o2em</source>
 		<assets>
+			<icon>resources/icon.png</icon>
 			<screenshot>resources/screenshot-01.png</screenshot>
 			<screenshot>resources/screenshot-02.png</screenshot>
 		</assets>

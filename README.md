@@ -15,7 +15,7 @@ Artistic License
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.o2em/resources/icon.png)
 
 ### Fanart
 
