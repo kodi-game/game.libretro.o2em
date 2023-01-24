@@ -15,7 +15,7 @@ Artistic License
 
 ### Icon
 
-![Icon](game.libretro.o2em/resources/icon.png)
+![Magnavox - Odyssey2 / Phillips Videopac+ (O2EM) icon](game.libretro.o2em/resources/icon.png)
 
 ### Fanart
 
@@ -23,5 +23,5 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.o2em/resources/screenshot-01.png)
-![Screenshot](game.libretro.o2em/resources/screenshot-02.png)
+![Magnavox - Odyssey2 / Phillips Videopac+ (O2EM) screenshot](game.libretro.o2em/resources/screenshot-01.png)
+![Magnavox - Odyssey2 / Phillips Videopac+ (O2EM) screenshot](game.libretro.o2em/resources/screenshot-02.png)
