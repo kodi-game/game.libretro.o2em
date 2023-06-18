@@ -18,8 +18,8 @@ msgstr ""
 "X-Generator: Weblate 4.17\n"
 
 msgctxt "Addon Summary"
-msgid "Magnavox - Odyssey2 / Phillips Videopac+ (O2EM)"
-msgstr "Magnavox - Odyssey2 / Phillips Videopac+ (O2EM)"
+msgid "Magnavox - Odyssey2 / Philips Videopac+ (O2EM)"
+msgstr ""
 
 msgctxt "Addon Description"
 msgid "O2EM is an Odyssey² / VideoPac emulator.[CR][CR]Place [I]o2rom.bin[/I] (required) in your userdata folder."
@@ -68,3 +68,7 @@ msgstr "音频滤波器"
 msgctxt "#30010"
 msgid "Audio Filter Level"
 msgstr "音频滤波器电平"
+
+#~ msgctxt "Addon Summary"
+#~ msgid "Magnavox - Odyssey2 / Phillips Videopac+ (O2EM)"
+#~ msgstr "Magnavox - Odyssey2 / Phillips Videopac+ (O2EM)"

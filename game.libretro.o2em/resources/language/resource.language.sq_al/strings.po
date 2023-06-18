@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgctxt "Addon Summary"
-msgid "Magnavox - Odyssey2 / Phillips Videopac+ (O2EM)"
+msgid "Magnavox - Odyssey2 / Philips Videopac+ (O2EM)"
 msgstr ""
 
 msgctxt "Addon Description"
