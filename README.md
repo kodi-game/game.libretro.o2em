@@ -1,4 +1,4 @@
-# Magnavox - Odyssey2 / Phillips Videopac+ (O2EM)
+# Magnavox - Odyssey2 / Philips Videopac+ (O2EM)
 
 ### Description
 
@@ -12,7 +12,7 @@ Artistic License
 
 ### Icon
 
-![Magnavox - Odyssey2 / Phillips Videopac+ (O2EM) icon](game.libretro.o2em/resources/icon.png)
+![Magnavox - Odyssey2 / Philips Videopac+ (O2EM) icon](game.libretro.o2em/resources/icon.png)
 
 ### Fanart
 
@@ -20,5 +20,5 @@ Help make me fanart!
 
 ### Screenshots
 
-![Magnavox - Odyssey2 / Phillips Videopac+ (O2EM) screenshot](game.libretro.o2em/resources/screenshot-01.png)
-![Magnavox - Odyssey2 / Phillips Videopac+ (O2EM) screenshot](game.libretro.o2em/resources/screenshot-02.png)
+![Magnavox - Odyssey2 / Philips Videopac+ (O2EM) screenshot](game.libretro.o2em/resources/screenshot-01.png)
+![Magnavox - Odyssey2 / Philips Videopac+ (O2EM) screenshot](game.libretro.o2em/resources/screenshot-02.png)

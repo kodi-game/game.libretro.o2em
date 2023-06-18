@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: Magnavox - Odyssey2 / Phillips Videopac+ (O2EM) core for kodi's retroplayer
- Magnavox - Odyssey2 / Phillips Videopac+ (O2EM) core for kodi's retroplayer
+Description: Magnavox - Odyssey2 / Philips Videopac+ (O2EM) core for kodi's retroplayer
+ Magnavox - Odyssey2 / Philips Videopac+ (O2EM) core for kodi's retroplayer
