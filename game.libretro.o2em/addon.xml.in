@@ -25,7 +25,10 @@
 			<screenshot>resources/screenshot-01.png</screenshot>
 			<screenshot>resources/screenshot-02.png</screenshot>
 		</assets>
+		<summary lang="da_DK">Magnavox - Odyssey2 / Philips Videopac+ (O2EM)</summary>
 		<summary lang="en_GB">Magnavox - Odyssey2 / Philips Videopac+ (O2EM)</summary>
+		<summary lang="es_ES">Magnavox - Odyssey2 / Philips Videopac+ (O2EM)</summary>
+		<summary lang="zh_CN">Magnavox - Odyssey2 / Philips Videopac+ (O2EM)</summary>
 		<description lang="da_DK">O2EM er en Odyssey² / VideoPac-emulator.[CR][CR]Placer [I]o2rom.bin[/I] (påkrævet) i din userdata mappe.</description>
 		<description lang="en_GB">O2EM is an Odyssey² / VideoPac emulator.[CR][CR]Place [I]o2rom.bin[/I] (required) in your userdata folder.</description>
 		<description lang="es_ES">O2EM es un emulador de Odyssey² / VideoPac.[CR][CR]Coloca [I]o2rom.bin[/I] (requerido) en tu carpeta userdata.</description>
