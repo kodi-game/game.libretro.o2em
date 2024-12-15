@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "O2EM is an Odyssey² / VideoPac emulator.[CR][CR]Place [I]o2rom.bin[/I] (required) in your userdata folder."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Einstellungen"
-
 msgctxt "#30001"
 msgid "Emulated Hardware (Restart)"
 msgstr ""
@@ -68,3 +64,7 @@ msgstr "Audiofilter"
 msgctxt "#30010"
 msgid "Audio Filter Level"
 msgstr "Audiofilterstufe"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"

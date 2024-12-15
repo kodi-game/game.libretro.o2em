@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "O2EM is an Odyssey² / VideoPac emulator.[CR][CR]Place [I]o2rom.bin[/I] (required) in your userdata folder."
 msgstr "O2EM 是一款 Odyssey² / VideoPac 模拟器。[CR][CR]将 [I]o2rom.bin[/I]（必需）存放到 userdata 文件夹中。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Emulated Hardware (Restart)"
 msgstr "仿真硬件（重新启动）"
@@ -68,6 +64,10 @@ msgstr "音频滤波器"
 msgctxt "#30010"
 msgid "Audio Filter Level"
 msgstr "音频滤波器电平"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
 
 #~ msgctxt "Addon Summary"
 #~ msgid "Magnavox - Odyssey2 / Phillips Videopac+ (O2EM)"
