@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="o2em_bios" values="o2rom.bin|c52.bin|g7400.bin|jopac.bin" default="o2rom.bin"/>
 		<setting label="30002" type="select" id="o2em_region" values="auto|NTSC|PAL" default="auto"/>
 		<setting label="30003" type="select" id="o2em_swap_gamepads" values="disabled|enabled" default="disabled"/>
