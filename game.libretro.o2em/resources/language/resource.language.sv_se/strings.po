@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.o2em\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-08-14 00:19i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-o2em/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "O2EM är en Odyssey² / VideoPac-emulator.[CR][CR]Placera [I]o2rom.bin[/
 
 msgctxt "#30001"
 msgid "Emulated Hardware (Restart)"
-msgstr ""
+msgstr "Emulerad hårdvara (omstart)"
 
 msgctxt "#30002"
 msgid "Console Region (Restart)"
