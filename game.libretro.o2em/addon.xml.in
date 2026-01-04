@@ -30,6 +30,7 @@
 		<summary lang="es_ES">Magnavox - Odyssey2 / Philips Videopac+ (O2EM)</summary>
 		<summary lang="fi_FI">Magnavox - Odyssey2/Philips Videopac+ (O2EM)</summary>
 		<summary lang="ga">Magnavox - Odyssey2 / Philips Videopac+ (O2EM)</summary>
+		<summary lang="it_IT">Magnavox - Odyssey2 / Philips Videopac+ (O2EM)</summary>
 		<summary lang="sv_SE">Magnavox - Odyssey2 / Philips Videopac+ (O2EM)</summary>
 		<summary lang="zh_CN">Magnavox - Odyssey2 / 飞利浦 Videopac+ （O2EM）</summary>
 		<description lang="da_DK">O2EM er en Odyssey² / VideoPac-emulator.[CR][CR]Placer [I]o2rom.bin[/I] (påkrævet) i din userdata mappe.</description>
@@ -37,6 +38,7 @@
 		<description lang="es_ES">O2EM es un emulador de Odyssey² / VideoPac.[CR][CR]Coloca [I]o2rom.bin[/I] (requerido) en tu carpeta userdata.</description>
 		<description lang="fi_FI">O2EM on Odyssey²/VideoPac-emulaattori.[CR][CR]Sijoita[I]o2rom.bin[/I] (vaaditaan) userdata-kansioosi.</description>
 		<description lang="ga">Is aithriseoir Odyssey² / VideoPac é O2EM.[CR][CR]Cuir [I]o2rom.bin[/I] (riachtanach) i do fhillteán sonraí úsáideora.</description>
+		<description lang="it_IT">O2EM è un emulatore Odyssey² / VideoPac.[CR][CR]Inserisci [I]o2rom.bin[/I] (obbligatorio) nella cartella userdata.</description>
 		<description lang="sv_SE">O2EM är en Odyssey² / VideoPac-emulator.[CR][CR]Placera [I]o2rom.bin[/I] (krävs) i din användardatamapp.</description>
 		<description lang="zh_CN">O2EM 是一款 Odyssey² / VideoPac 模拟器。[CR][CR]将 [I]o2rom.bin[/I]（必需）存放到 userdata 文件夹中。</description>
 	</extension>
