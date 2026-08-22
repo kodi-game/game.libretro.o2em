@@ -65,3 +65,167 @@ msgstr ""
 msgctxt "#30010"
 msgid "Audio Filter Level"
 msgstr ""
+
+msgctxt "#30011"
+msgid "Specify which console hardware to emulate. Requires the corresponding bios file to be present in the frontend 'system' directory (o2rom.bin, c52.bin, g7400.bin, jopac.bin)."
+msgstr ""
+
+msgctxt "#30012"
+msgid "Odyssey 2 (NTSC)"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Videopac G7000 (European)"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Videopac+ G7400 (European)"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Videopac+ G7400 (French)"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Specify which region the system is from. 'Auto' chooses the correct region based on emulated hardware. 'NTSC' is 60hz, 'PAL' is 50hz. Games may run abnormally if the wrong region is selected, and the setting my be overridden if the current content is incompatible."
+msgstr ""
+
+msgctxt "#30017"
+msgid "Auto"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Swap inputs from the two connected controllers of the emulated console. Required for games such as UFO and P.T. Barnum's Acrobats, which accept player 1 input from the second controller."
+msgstr ""
+
+msgctxt "#30019"
+msgid "Set transparency level of the virtual on-screen keyboard."
+msgstr ""
+
+msgctxt "#30020"
+msgid "0%"
+msgstr ""
+
+msgctxt "#30021"
+msgid "25%"
+msgstr ""
+
+msgctxt "#30022"
+msgid "50%"
+msgstr ""
+
+msgctxt "#30023"
+msgid "75%"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Remove the border around the edges of the screen, typically unused by games and hidden by the bezel of a standard-definition television."
+msgstr ""
+
+msgctxt "#30025"
+msgid "Simulate CRT phosphor ghosting effects. 'Simple' performs a 50:50 mix of the current and previous frames. 'Ghosting' accumulates pixels from multiple successive frames. May be used to alleviate screen flicker."
+msgstr ""
+
+msgctxt "#30026"
+msgid "Simple"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Ghosting (65%)"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Ghosting (75%)"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Ghosting (85%)"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Ghosting (95%)"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Set output audio volume level."
+msgstr ""
+
+msgctxt "#30032"
+msgid "5%"
+msgstr ""
+
+msgctxt "#30033"
+msgid "10%"
+msgstr ""
+
+msgctxt "#30034"
+msgid "15%"
+msgstr ""
+
+msgctxt "#30035"
+msgid "20%"
+msgstr ""
+
+msgctxt "#30036"
+msgid "30%"
+msgstr ""
+
+msgctxt "#30037"
+msgid "35%"
+msgstr ""
+
+msgctxt "#30038"
+msgid "40%"
+msgstr ""
+
+msgctxt "#30039"
+msgid "45%"
+msgstr ""
+
+msgctxt "#30040"
+msgid "55%"
+msgstr ""
+
+msgctxt "#30041"
+msgid "60%"
+msgstr ""
+
+msgctxt "#30042"
+msgid "65%"
+msgstr ""
+
+msgctxt "#30043"
+msgid "70%"
+msgstr ""
+
+msgctxt "#30044"
+msgid "80%"
+msgstr ""
+
+msgctxt "#30045"
+msgid "85%"
+msgstr ""
+
+msgctxt "#30046"
+msgid "90%"
+msgstr ""
+
+msgctxt "#30047"
+msgid "95%"
+msgstr ""
+
+msgctxt "#30048"
+msgid "100%"
+msgstr ""
+
+msgctxt "#30049"
+msgid "Set output volume level of 'The Voice' speech samples. The voice sampleset WAV files must be placed in the frontend 'system/voice' directory."
+msgstr ""
+
+msgctxt "#30050"
+msgid "Apply a low pass audio filter to soften the 'harsh' sound effects produced by most Odyssey2/Videopac+ games."
+msgstr ""
+
+msgctxt "#30051"
+msgid "Specify the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
+msgstr ""
