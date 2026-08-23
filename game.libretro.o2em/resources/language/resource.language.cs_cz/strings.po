@@ -228,3 +228,11 @@ msgstr "Použít dolní propust zvuku ke změkčení „ostrých“ zvukových e
 msgctxt "#30051"
 msgid "Specify the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
 msgstr "Určuje mezní frekvenci dolní propusti zvuku. Vyšší hodnota zvyšuje vnímanou „sílu“ filtru, protože zeslabuje širší rozsah vysokofrekvenčního spektra."
+
+msgctxt "#30052"
+msgid "NTSC"
+msgstr ""
+
+msgctxt "#30053"
+msgid "PAL"
+msgstr ""

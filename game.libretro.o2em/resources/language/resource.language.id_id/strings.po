@@ -229,6 +229,14 @@ msgctxt "#30051"
 msgid "Specify the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
 msgstr ""
 
+msgctxt "#30052"
+msgid "NTSC"
+msgstr ""
+
+msgctxt "#30053"
+msgid "PAL"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Pengaturan"
