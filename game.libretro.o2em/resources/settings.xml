@@ -22,8 +22,8 @@
 					<constraints>
 						<options>
 							<option label="30017">auto</option>
-							<option>NTSC</option>
-							<option>PAL</option>
+							<option label="30052">NTSC</option>
+							<option label="30053">PAL</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
