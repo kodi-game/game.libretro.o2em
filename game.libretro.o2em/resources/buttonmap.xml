@@ -6,6 +6,15 @@
         <feature name="down" mapto="RETRO_DEVICE_ID_JOYPAD_DOWN"/>
         <feature name="right" mapto="RETRO_DEVICE_ID_JOYPAD_RIGHT"/>
         <feature name="left" mapto="RETRO_DEVICE_ID_JOYPAD_LEFT"/>
+        <feature name="vkbmove" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
+        <feature name="vkbtoggle" mapto="RETRO_DEVICE_ID_JOYPAD_SELECT"/>
+        <feature name="num0" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
+        <feature name="num1" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
+        <feature name="num2" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
+        <feature name="num3" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
+        <feature name="num4" mapto="RETRO_DEVICE_ID_JOYPAD_R2"/>
+        <feature name="num5" mapto="RETRO_DEVICE_ID_JOYPAD_L3"/>
+        <feature name="num6" mapto="RETRO_DEVICE_ID_JOYPAD_R3"/>
     </controller>
     <controller id="game.controller.keyboard" type="RETRO_DEVICE_KEYBOARD">
         <feature name="1" mapto="RETROK_1"/>
