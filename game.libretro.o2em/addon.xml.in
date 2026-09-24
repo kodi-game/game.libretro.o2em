@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.o2em"
 		name="Magnavox - Odyssey2 / Philips Videopac+ (O2EM)"
-		version="1.18.0.56"
+		version="1.18.0.57"
 		provider-name="Daniel Boris, Andre de la Rocha, Arlindo M. de Oliveira">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -10,7 +10,7 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms>Odyssey 2</platforms>
+		<platforms>Magnavox - Odyssey2 / Philips Videopac+</platforms>
 		<extensions>bin</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
